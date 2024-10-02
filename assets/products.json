@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "name": "নাজিরশাইল",
+            "imageURL": "https://chefcart.com.bd/wp-content/uploads/2019/05/Najirshail-Rice-1.jpg",
+            "brand": "সুগন্ধা",
+            "price": 70
+        },
+        {
+            "name": "কাটারী ভোগ ",
+            "imageURL": "https://chefcart.com.bd/wp-content/uploads/2019/05/Najirshail-Rice-1.jpg",
+            "brand": "সুগন্ধা",
+            "price": 72
+        },
+        {
+            "name": "২৯",
+            "imageURL": "https://chefcart.com.bd/wp-content/uploads/2019/05/Najirshail-Rice-1.jpg",
+            "brand": "গন্ধরাজ",
+            "price": 65
+        },
+        {
+            "name": "মিনি কেট",
+            "imageURL": "https://chefcart.com.bd/wp-content/uploads/2019/05/Najirshail-Rice-1.jpg",
+            "brand": "সুগন্ধা",
+            "price": 80
+        },
+        {
+            "name": "মসুর ডাল",
+            "imageURL": "https://images.othoba.com/images/thumbs/0106868_mushur-dal-loose-1kg.jpeg",
+            "brand": "Deshi",
+            "price": 139
+        }
+    ]
+}
